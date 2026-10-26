@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator - TV v1.0"
 author: "Thom Voth - LI Cert" 
 description: "Generates a feed for a podcast from a YAML file" 
 runs:
